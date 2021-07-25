@@ -3,7 +3,7 @@ package lab0;
 /**
  * This is to print 2D square array in Spiral Order
  * 
- * @author Erick Garcia Vargas
+ * @author MorphiceGV
  * Formated version of code
  */
 public class SpiralArray {
